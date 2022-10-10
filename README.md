@@ -1,20 +1,7 @@
-### Hi there 👋
 
-<!--
-**antonsebastian/antonsebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi, I'm Anton Sebatian a Developer ☮️ from India. 
+### Hi, I'm Anton Sebastian a Developer ☮️ from India. 
 <img align= "right" alt="Coding" width="400" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="200px"/></a>
 
   
@@ -33,11 +20,11 @@ Here are some ideas to get you started:
 
 ##  🎯 About me
 - 📝 Checkout my: <a href="https://georgejacob1.github.io/"><img src="https://img.shields.io/badge/-RESUME-%235F678E?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-- 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=jacobgeorge399@gmail.com&fs=1&tf=cm">jacobgeorge399@gmail.com</a>
+- 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=antonsebastian795@gmail.com&fs=1&tf=cm">antonsebastian795@gmail.com</a>
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://mail.google.com/mail/u/0/?to=jacobgeorge399@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a>
+<a href="https://mail.google.com/mail/u/0/?to=antonsebastian795@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a>
 <a href="https://linkedin.com/in/george-jacob-2a4a20224"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" width="30"/></a>&nbsp;
 <a href="https://instagram.com/g__e__o__r__g__e___"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30"/></a>&nbsp;
 <a href="https://www.snapchat.com/add/george_j5730?share_id=yxrjIAb0Sog&locale=en-US"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>&nbsp;
