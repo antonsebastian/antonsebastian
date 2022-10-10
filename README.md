@@ -85,12 +85,12 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
         
   <br/>
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=antonsebatian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img  alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsebatian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=antonsebastian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img  alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsebastian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 <br/>
-<img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antonsebatian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antonsebastian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 ----
