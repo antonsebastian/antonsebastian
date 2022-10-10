@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://mail.google.com/mail/u/0/?to=antonsebastian795@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a>
-<a href="https://linkedin.com/in/george-jacob-2a4a20224"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" width="30"/></a>&nbsp;
-<a href="https://instagram.com/g__e__o__r__g__e___"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30"/></a>&nbsp;
-<a href="https://www.snapchat.com/add/george_j5730?share_id=yxrjIAb0Sog&locale=en-US"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/anton-sebastian-4635321b7"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" width="30"/></a>&nbsp;
+<a href="https://instagram.com/anton__sebastian?igshid=YmMyMTA2M2Y="><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30"/></a>&nbsp;
+<a href="https://www.snapchat.com/add/antn_sebast6549?share_id=3vwXx0Jgrbs&locale=en-US"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>&nbsp;
 <a href="https://t.me/Georgejacob1999"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" height="30" width="30"/></a>&nbsp;
 
 
@@ -41,7 +41,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"  /></a> 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"  /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  /></a>
