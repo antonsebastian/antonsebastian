@@ -27,8 +27,10 @@
 <a href="https://mail.google.com/mail/u/0/?to=antonsebastian795@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a>
 <a href="https://www.linkedin.com/in/anton-sebastian-4635321b7"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" width="30"/></a>&nbsp;
 <a href="https://instagram.com/anton__sebastian?igshid=YmMyMTA2M2Y="><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30"/></a>&nbsp;
-<a href="https://www.snapchat.com/add/antn_sebast6549?share_id=3vwXx0Jgrbs&locale=en-US"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>&nbsp;
-[![@antons's Holopin board](https://holopin.me/antons)](https://holopin.io/@antons)
+<a href="https://www.snapchat.com/add/antn_sebast6549?share_id=3vwXx0Jgrbs&locale=en-US"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>
+
+
+
 
 
 
