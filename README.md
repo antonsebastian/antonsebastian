@@ -69,7 +69,7 @@
 <br/>  
 <br/>  
 
-
+[![@antons's Holopin board](https://holopin.me/antons)](https://holopin.io/@antons)
 
 ## 📊 My Github Stats
         
@@ -83,7 +83,7 @@
 <br/>
 
 ----
-[![@antons's Holopin board](https://holopin.me/antons)](https://holopin.io/@antons)
+
 
 
 
