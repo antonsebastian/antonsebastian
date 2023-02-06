@@ -3,7 +3,6 @@
   <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Anton and I like PHP" src="images/personal_note.svg" />
   <br />
   <br />
 
