@@ -3,6 +3,8 @@
   <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
+
+  <img src="images/personal_note.svg" height="50" />
   <br />
   <br />
 
