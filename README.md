@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <img src="images/personal_note.svg" height="50" />
+<img src="images/personal_note.svg" height="50" align="center" />
   <br />
   <br />
 
