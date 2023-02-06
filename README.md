@@ -1,87 +1,78 @@
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/antonsebastian/antonsebastian/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Anton and I like PHP" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://anton-seban.s3.ap-south-1.amazonaws.com/rezume-master/index.html#section-home">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
 
 
-
-### Hi, I'm Anton Sebastian a Developer ☮️ from India. 
-<img align= "right" alt="Coding" width="400" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="200px"/></a>
-
-  
-
-- 🧭 currently a MCA student in Amal Jyothi College,Kanjirapally.  
-  
-
-- 🎯 currently learning Python  
-  
-
-- 📌 looking to collaborate with other programmers.  
-  
-
-- 🀄 Fun fact:I love to Travel.  
+<td align="center">
+<a href="https://youtu.be/e8n1qDeAFtU">
+<strong>Listen to cool music</strong>
+<br />
+<br />
 
 
-##  🎯 About me
-<!-- - 📝 Checkout my: <a href="https://georgejacob1.github.io/"><img src="https://img.shields.io/badge/-RESUME-%235F678E?style=for-the-badge&logo=readthedocs&logoColor=white" /></a> -->
-- 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=antonsebastian795@gmail.com&fs=1&tf=cm">antonsebastian795@gmail.com</a>
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- <div align="center">
+<a href="https://github.com/antonsebastian/antonsebastian/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div> -->
+
+<!-- Guestbook -->
+<!-- | Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/BE-Pierzchala"><img width="24" src="https://avatars.githubusercontent.com/u/67645796?s=24&u=f9f468bf6b2f2c1e303eaada5cae3aeae72cc558&v=4" alt="BE-Pierzchala" /> BE-Pierzchala</a> |2/5/2023, 5:34:08 PM|Keep up the great work!|
+| <a href="https://github.com/devxyzr"><img width="24" src="https://avatars.githubusercontent.com/u/99299512?s=24&u=9c8204e65cdccf34b49ce68350a9e058ef547855&v=4" alt="devxyzr" /> devxyzr</a> |1/31/2023, 9:44:33 PM|Hello|
+| <a href="https://github.com/YaoSiQian"><img width="24" src="https://avatars.githubusercontent.com/u/29835749?s=24&v=4" alt="YaoSiQian" /> YaoSiQian</a> |1/28/2023, 2:57:50 PM|跨越长城，走向世界！<br />Across the Great Wall we can reach every corner in the world|
+| <a href="https://github.com/krishnapriya-n"><img width="24" src="https://avatars.githubusercontent.com/u/101842284?s=24&u=4f0896da3c4d5201dea78128de97c8234c7ca8c2&v=4" alt="krishnapriya-n" /> krishnapriya-n</a> |1/22/2023, 7:41:55 AM|amazing 😎|
+| <a href="https://github.com/ToguDV"><img width="24" src="https://avatars.githubusercontent.com/u/45081449?s=24&v=4" alt="ToguDV" /> ToguDV</a> |1/20/2023, 9:32:38 PM|hiiiiii| -->
+<!-- /Guestbook -->
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/antonsebastian/count.svg)
 
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://mail.google.com/mail/u/0/?to=antonsebastian795@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a>
-<a href="https://www.linkedin.com/in/anton-sebastian-4635321b7"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" width="30"/></a>&nbsp;
-<a href="https://instagram.com/anton__sebastian?igshid=YmMyMTA2M2Y="><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30"/></a>&nbsp;
-<a href="https://www.snapchat.com/add/antn_sebast6549?share_id=3vwXx0Jgrbs&locale=en-US"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>
+<img src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
-
-
-
-
-
-<br/>  
-
-
-
-### Languages and Tools:  
-<div align="left"> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>     
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  /></a>
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a> 
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  
-
-
-
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a> 
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="30" /></a> 
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a> 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="30" /></a>
-
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-
-  
-
-</div> 
-<br/>  
-<br/>  
-
-[![@antons's Holopin board](https://holopin.me/antons)](https://holopin.io/@antons)
-
-## 📊 My Github Stats
-        
-  <br/>
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=antonsebastian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img  alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsebastian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- 
-<br/>
-<img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antonsebastian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
-----
-
-
-
-
+</div>
