@@ -1,79 +1,62 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+<h1 align="left">Hi👋, I'm Anton Sebastian</h1>
+<img align="right" alt="Coder GIF" width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<h3 align="left">An enthusiastic developer hailing from India 🇮🇳</h3>
 
-<img src="images/personal_note.svg" height="50" align="center" />
-  <br />
-  <br />
+- 👨‍🎓 I have successfully completed my MCA degree.
+- 👯 I'm eager to join forces with fellow programmers for collaborative projects.
+- 📧 You can get in touch with me at <a href="https://mail.google.com/mail/u/0/?to=antonsebastian070@gmail.com&fs=1&tf=cm">antonsebastian070@gmail.com</a>
+- 📝 Feel free to explore my <a href="" target="_blank">portfolio</a>
 
-</div>
+<h3 align="left">Connect with me:</h3>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://anton-seban.s3.ap-south-1.amazonaws.com/rezume-master/index.html#section-home">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
+<a href="www.linkedin.com/in/anton-sebastian-0053b0264" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" width="25"/></a>&nbsp;
+<a href="https://www.instagram.com/anton__sebastian/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="25" width="25"/></a>&nbsp;
 
+## ⚡Tech Stacks
+> Languages 
 <p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-</td>
-
-
-<td align="center">
-<a href="https://youtu.be/e8n1qDeAFtU">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
+> Learning 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
+<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-</td>
-</tr>
-</table>
+>Frontend
+<p>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-<!-- <div align="center">
-<a href="https://github.com/antonsebastian/antonsebastian/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div> -->
+>Backend and Database
+<p>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-<!-- Guestbook -->
-<!-- | Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/BE-Pierzchala"><img width="24" src="https://avatars.githubusercontent.com/u/67645796?s=24&u=f9f468bf6b2f2c1e303eaada5cae3aeae72cc558&v=4" alt="BE-Pierzchala" /> BE-Pierzchala</a> |2/5/2023, 5:34:08 PM|Keep up the great work!|
-| <a href="https://github.com/devxyzr"><img width="24" src="https://avatars.githubusercontent.com/u/99299512?s=24&u=9c8204e65cdccf34b49ce68350a9e058ef547855&v=4" alt="devxyzr" /> devxyzr</a> |1/31/2023, 9:44:33 PM|Hello|
-| <a href="https://github.com/YaoSiQian"><img width="24" src="https://avatars.githubusercontent.com/u/29835749?s=24&v=4" alt="YaoSiQian" /> YaoSiQian</a> |1/28/2023, 2:57:50 PM|跨越长城，走向世界！<br />Across the Great Wall we can reach every corner in the world|
-| <a href="https://github.com/krishnapriya-n"><img width="24" src="https://avatars.githubusercontent.com/u/101842284?s=24&u=4f0896da3c4d5201dea78128de97c8234c7ca8c2&v=4" alt="krishnapriya-n" /> krishnapriya-n</a> |1/22/2023, 7:41:55 AM|amazing 😎|
-| <a href="https://github.com/ToguDV"><img width="24" src="https://avatars.githubusercontent.com/u/45081449?s=24&v=4" alt="ToguDV" /> ToguDV</a> |1/20/2023, 9:32:38 PM|hiiiiii| -->
-<!-- /Guestbook -->
+>Version Control
+<p>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<!-- Footer -->
+>Tools
+<p>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+</p>
 
-<div align="center">
+## 📊 Github stats
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alanshijo&show_icons=true&theme=gotham" alt="alanshijo" /> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alanshijo&theme=gotham&border_radius=4&date_format=j%20M%5B%20Y%5D" /></a> -->
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/antonsebastian/count.svg)
-
-
-<img src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/antonsebastian/antonsebastian/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
-</div>
+[![@anton's Holopin board](https://holopin.me/antons)](https://holopin.io/@antons)
