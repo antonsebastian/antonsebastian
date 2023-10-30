@@ -23,9 +23,11 @@
 > Learning 
 <p>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img alt="Semrush" src="https://img.shields.io/badge/semrush%20-%23FF2D20.svg?&style=for-the-badge&logo=semrush&logoColor=%2361DAFB"/>
  <img alt="Google Analytics" src="https://img.shields.io/badge/google analytics-%2320232a.svg?style=for-the-badge&logo=google analytics&logoColor=white"/>
+ <img alt="ahref" src="https://img.shields.io/badge/ahref%20-%23FF2D20.svg?&style=for-the-badge&logo=ahref&logoColor=%2361DAFB"/>
+ <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-%2320232a.svg?style=for-the-badge&logo=Wordpress&logoColor=white"/>
+  <img alt="Google ads" src="https://img.shields.io/badge/Google ads%20-%23FF2D20.svg?&style=for-the-badge&logo=Google ads&logoColor=%2361DAFB"/>
 </p>
 
 >Frontend
