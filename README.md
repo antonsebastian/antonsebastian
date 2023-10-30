@@ -25,6 +25,7 @@
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img alt="Semrush" src="https://img.shields.io/badge/semrush%20-%23FF2D20.svg?&style=for-the-badge&logo=semrush&logoColor=%2361DAFB"/>
+ <img alt="Google Analytics" src="https://img.shields.io/badge/google analytics-%2320232a.svg?style=for-the-badge&logo=google analytics&logoColor=white"/>
 </p>
 
 >Frontend
@@ -39,6 +40,7 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ 
 </p>
 
 >Version Control
