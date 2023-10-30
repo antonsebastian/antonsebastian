@@ -24,6 +24,7 @@
 <p>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img alt="Semrush" src="https://img.shields.io/badge/semrush%20-%2320232a.svg?&style=for-the-badge&logo=semrush&logoColor=%2361DAFB"/>
 </p>
 
 >Frontend
