@@ -1,6 +1,6 @@
 <h1 align="left">Hi👋, I'm Anton Sebastian</h1>
 <img align="right" alt="Coder GIF" width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<h3 align="left">An enthusiastic developer hailing from India 🇮🇳</h3>
+<h3 align="left">An enthusiastic developer & SEO Analyst from India 🇮🇳</h3>
 
 - 👨‍🎓 I have successfully completed my MCA degree.
 - 👯 I'm eager to join forces with fellow programmers for collaborative projects.
